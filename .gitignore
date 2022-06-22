@@ -66,5 +66,5 @@ node_modules/
 .env
 
 #Development Keys
-/StockTraderProjectAdmin/*
-/LemonMarkets/*
+/StockTraderProjectAdmin/stocktrader-b15c1-firebase-adminsdk-wmigs-46f1852624.json
+functions/Routes/LemonMarketsAdmin/APIKey/ApiKey.json
